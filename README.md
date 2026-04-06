@@ -1,20 +1,15 @@
-# To-Do List Web App
+# Professional To-Do List Web App
 
-A modern and responsive To-Do List application built using HTML, CSS, and JavaScript.
+## Live Demo
+https://yourusername.github.io/todo-web-app/
+
+## Project Screenshot
+![App Screenshot](screenshot.png)
 
 ## Features
-- Add, Edit, Delete Tasks
-- Task Priority
-- Categories
-- Due Dates
+- Add Task
+- Edit Task
+- Delete Task
 - Dark Mode
-- Drag and Drop Tasks
-- Progress Bar
-- Search Tasks
-- Filter Tasks
-- Export Tasks
+- Drag & Drop
 - Local Storage
-- Responsive Design
-
-## Technologies
-HTML, CSS, JavaScript, Local Storage
